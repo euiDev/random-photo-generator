@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "random-photo-generator"
+    }
+  },
+  "defaultProject": "random-photo-generator",
+  "cli": {
+    "analytics": false
+  }
 }
